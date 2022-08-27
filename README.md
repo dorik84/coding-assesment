@@ -1,6 +1,10 @@
-### Starting file is  `src/main/java/Main/Fan.java` ###
+## It is a maven project ##
 
-Construct Fan object:
+Starting file: 
+
+`src/main/java/Main/Fan.java` 
+
+Construct main object:
 
 `Fan fan = new Fan();`
 
